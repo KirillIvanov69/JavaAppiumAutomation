@@ -1,7 +1,8 @@
 *.iml
+*.xml
 *.ipr
 *.iws
 *.ids
-
+out/*
 
 
